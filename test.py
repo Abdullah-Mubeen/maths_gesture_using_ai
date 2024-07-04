@@ -47,7 +47,7 @@ st.sidebar.markdown("Control the app using the options below:")
 run = st.sidebar.checkbox('Run', value=True)
 
 # Google Generative AI configuration
-genai.configure(api_key="AIzaSyAu7w2tMO4kIAiB-RDMh8vywmF8OqBjpQk")
+genai.configure(api_key="API_KEY")
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 # Initialize the webcam
