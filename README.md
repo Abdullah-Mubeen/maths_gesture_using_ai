@@ -1,5 +1,5 @@
 <!-- Header -->
-![Header](https://github.com/Abdullah-Mubeen/Abdullah-Mubeen/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png)
+<!-- ![Header](https://github.com/Abdullah-Mubeen/Abdullah-Mubeen/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.png) -->
 
 # Math with Gestures using AI
 
